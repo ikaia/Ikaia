@@ -1,5 +1,14 @@
-### Hi there 👋
+### Welcome 👋
+Hi! I am Ikaia, a passionate and driven, computer science major with a strong interest in problem-solving, software development, and leveraging technology to create innovative solutions for all things tech.
 
+- 💻 Computer Science student with a passion for software development and gaming programming
+- 🔍 Seeking opportunities in start-ups or big companies
+- 🚀 Strong foundation in programming languages like Java, C++, and Python
+- 🎮 Experienced in game development frameworks like Unity and Unreal Engine
+- 🌟 Proactive learner, staying updated with the latest industry trends
+- 👥 Collaborative team player with excellent problem-solving skills
+- 💡 Ready to make a meaningful impact in the software development industry
+- 📧 Email: im03459@georgiasouthern.edu
 <!--
 **ikaia/Ikaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
